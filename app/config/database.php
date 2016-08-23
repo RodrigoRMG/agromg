@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => '127.0.0.1',
-			'database'  => 'agromg',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => 'server',
+			'database'  => 'database',
+			'username'  => 'username',
+			'password'  => 'password',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
